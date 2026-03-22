@@ -1,0 +1,1 @@
+All of the written answers and times are in docs/README.md. I have tested several different amount of goroutines for mapreduce but don't see a very big difference between them, so I just chose 6.

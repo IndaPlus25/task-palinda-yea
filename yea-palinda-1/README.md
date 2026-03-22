@@ -1,0 +1,1 @@
+Completed the basics and exercises, also did the go tutorial.

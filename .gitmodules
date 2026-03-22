@@ -1,9 +1,0 @@
-[submodule "yea-palinda-1"]
-	path = yea-palinda-1
-	url = git@gits-15.sys.kth.se:inda-25/yea-palinda-1.git
-[submodule "yea-palinda-2"]
-	path = yea-palinda-2
-	url = git@gits-15.sys.kth.se:inda-25/yea-palinda-2.git
-[submodule "yea-palinda-3"]
-	path = yea-palinda-3
-	url = git@gits-15.sys.kth.se:inda-25/yea-palinda-3.git
